@@ -25,7 +25,7 @@ Tool
 <br>
 
 ## 📍 Projects
-### 1. GD HEALTH
+### GD HEALTH
 > 헬스클럽 운영/관리 플랫폼<br>
 > 프로젝트 기간 : 2023.12.21 — 2024.01.31<br>
  
@@ -42,20 +42,4 @@ Link
 > [프로젝트 상세 설명](https://github.com/sksmss14/gdhealth)<br>
 > [직원 / 본사 로그인 페이지](http://52.78.98.70/employee/login)<br>
 > [고객 로그인 페이지](http://52.78.98.70/customer/login)<br>
-* * *
-### 2. Diary
-> 일정을 기록하는 나만의 diary<br>
-> 프로젝트 기간 : 2023.11.30 — 2024.12.14
 
-사용 기술
-> - Java 17
-> - Spring Boot 3.2.0
-> - MariaDB 10.5.22
-> - MyBatis
-> - Maven
-> - Git
-> - JavaScript(JQuery)
-
-Link
-> [프로젝트 상세 설명](https://github.com/sksmss14/diary)<br>
-> [로그인 페이지](http://52.78.98.70/diary/login)
